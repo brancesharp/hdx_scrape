@@ -1,4 +1,4 @@
-beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1675252249248/work
-pandas @ file:///D:/bld/pandas_1674136542219/work
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1673863902341/work
+beautifulsoup4==4.11.2
+pandas==1.5.3
+requests==2.28.2
 streamlit==1.18.1
