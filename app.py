@@ -6,7 +6,7 @@ import streamlit as st
 
 st.set_page_config(layout='wide')
 
-st.title("HDx Web Scrape")
+st.title("Web Scrape")
 
 hdx_url = st.text_input("Input URL")
 
